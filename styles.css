@@ -1,0 +1,109 @@
+.nav1 {
+    background-color: white;
+    padding: .1em 1em .4em .1em;
+    font-family: helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    border-bottom: 1px solid #dddddd;
+}
+
+.nav1 ul {
+    list-style-type: none;
+    text-align: left;
+
+}
+
+.nav1 li {
+    display: inline;
+}
+
+.nav1 a {
+    text-decoration: none;
+    color: black;
+    margin-right: 3em;
+}
+
+.nav1-split a {
+    padding-left: 35em;
+}
+
+.nav2 {
+    background-color: white;
+    padding: .1em 1em;
+    font-family: arial;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    font-stretch: condensed;
+    transform: scale(1, 1.3);
+    border-bottom: 1px solid #dddddd;
+    border-top: 1px solid #dddddd;
+}
+
+.nav2 ul {
+    list-style-type: none;
+    text-align: left;
+
+}
+
+.nav2 li {
+    display: inline;
+}
+
+.nav2 a {
+    text-decoration: none;
+    color: black;
+    margin-right: 3em;
+}
+
+.nav-red a {
+    color: #b2281d;
+}
+
+.logo img {
+    padding-right: 18em;
+}
+
+.your-car {
+    display: inline-flex;
+    font-family: helvetica;
+    font-weight: 100;
+    padding-top: 1em;
+}
+
+.your-car h2 {
+    font-size: 18px;
+}
+
+.your-car h3 {
+    color: black;
+    font-size: 14px;
+}
+
+.your-car .car {
+    width: 110px;
+    height: 55px;
+    padding-left: 2em;
+}
+
+.your-car .car-info .car-name {
+    margin-bottom: 0.2em;
+    font-weight: 400;
+    color:#3373b5
+}
+
+.your-car .car-info .tire-size {
+    margin-top: 0.2em;
+    font-weight: 400;
+}
+
+.your-car .switch {
+    padding: .8em 0 0 70em;
+    font-family: arial;
+    font-size: 13px;
+    font-weight: 600;
+    font-stretch: condensed;
+    transform: scale(1,1.3);
+    line-height: 1.05em;
+    letter-spacing: 0.05em;
+}
